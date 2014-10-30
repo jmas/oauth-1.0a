@@ -1,6 +1,6 @@
 if (typeof(module) !== 'undefined' && typeof(exports) !== 'undefined') {
     module.exports = OAuth;
-    var CryptoJS = require("crypto-js");
+    var CryptoJS = require("jmas/crypto-js");
 }
 
 /**
