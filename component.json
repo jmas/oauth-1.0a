@@ -1,6 +1,6 @@
 {
   "name": "arr",
-  "description": "JavaScript Array extended",
+  "description": "oauth-1.0a",
   "version": "1.0.0",
   "scripts": ["oauth-1.0a.js"],
   "main": "oauth-1.0a.js",
